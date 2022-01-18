@@ -9,6 +9,7 @@
     "gulp-cli": "^2.3.0"
   },
   "devDependencies": {
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-sass": "^5.1.0"
   },
   "scripts": {
